@@ -4,7 +4,7 @@ title: Thinking about goals
 subtitle: LS assignment
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [blog]
 comments: true
 ---
 Lambda School is focused on two things: cramming an almost complete college-level, topic specific curriculum into a short 
