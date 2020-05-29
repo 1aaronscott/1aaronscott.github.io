@@ -34,7 +34,7 @@ cluster is a noise point.  In this Wikipedia image, the red dots are
 part of the cluster. The blue dot is too far away and is considered
 noise.
 
-![Wikipedia image](../img/wikipedia_illustration.png){: .center-block :}
+![Wikipedia image](../img/cs29_bw1_wikipedia_illustration.png){: .center-block :}
 
 ## What?
 The Wikipedia page provides some pseudocode which I used as guidance
