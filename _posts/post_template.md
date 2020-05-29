@@ -8,3 +8,4 @@ tags: [blog]
 comments: true
 ---
 [link text](link url)
+![image text](image url)

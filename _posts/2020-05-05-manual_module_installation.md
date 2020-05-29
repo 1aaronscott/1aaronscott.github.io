@@ -6,6 +6,7 @@ gh-repo: 1aaronscott
 gh-badge: [star, fork, follow]
 tags: [blog, nlp, python]
 comments: true
+image: ../img/spacy_logo.jpg
 ---
 Sometimes you may need to manually install a python module. I had to do this because
 the large SpaCy model at the time of wrting is almost 800 megabytes compressed (and close to 1 gigabyte
