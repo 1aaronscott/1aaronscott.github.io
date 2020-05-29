@@ -8,8 +8,8 @@ tags: [blog, portfolio]
 comments: true
 ---
 
-![DBSCAN animated](../img/cs29_bw1_dbscan_animated.gif){: .center-block :}
-[KDnuggets](https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html)
+[![DBSCAN animated](../img/cs29_bw1_dbscan_animated.gif)](https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html){: .center-block :}
+
 
 ## Why?
 Recently I was tasked with implementing one of several algorithms
