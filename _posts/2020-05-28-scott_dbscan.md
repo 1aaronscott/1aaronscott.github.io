@@ -74,10 +74,10 @@ but not bad given the time and resource constraints.
 in a more engaging way for users.
 
 References:
-[0] [https://en.wikipedia.org/wiki/DBSCAN](https://en.wikipedia.org/wiki/DBSCAN)
-[1] [https://scikit-learn.org/stable/modules/clustering.html#DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#DBSCAN)
-[2] [https://dl.acm.org/doi/pdf/10.1145/3068335](https://dl.acm.org/doi/pdf/10.1145/3068335)
-[3] [https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/cluster/_dbscan.py](https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/cluster/_dbscan.py)
-[4] [https://github.com/chrisjmccormick/dbscan/blob/master/dbscan.py](https://github.com/chrisjmccormick/dbscan/blob/master/dbscan.py)
-[5] [http://www.programmersought.com/article/2297928249/](http://www.programmersought.com/article/2297928249/)
-[6] [https://github.com/1aaronscott/CS29-Unit1-Build-Week](https://github.com/1aaronscott/CS29-Unit1-Build-Week)
+- [0] [https://en.wikipedia.org/wiki/DBSCAN](https://en.wikipedia.org/wiki/DBSCAN)
+- [1] [https://scikit-learn.org/stable/modules/clustering.html#DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#DBSCAN)
+- [2] [https://dl.acm.org/doi/pdf/10.1145/3068335](https://dl.acm.org/doi/pdf/10.1145/3068335)
+- [3] [https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/cluster/_dbscan.py](https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/cluster/_dbscan.py)
+- [4] [https://github.com/chrisjmccormick/dbscan/blob/master/dbscan.py](https://github.com/chrisjmccormick/dbscan/blob/master/dbscan.py)
+- [5] [http://www.programmersought.com/article/2297928249/](http://www.programmersought.com/article/2297928249/)
+- [6] [https://github.com/1aaronscott/CS29-Unit1-Build-Week](https://github.com/1aaronscott/CS29-Unit1-Build-Week)
