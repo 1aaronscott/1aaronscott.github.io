@@ -20,6 +20,7 @@ description: 1aaronscott's portfolio
 
 # List of links in the navigation bar
 navbar-links:
+  Portfolio: "portfolio"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
